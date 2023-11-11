@@ -1,0 +1,9 @@
+venv/
+.DS_Store
+.vscode/
+__pycache__/
+detection/
+images/
+training/
+training_split/
+models/
